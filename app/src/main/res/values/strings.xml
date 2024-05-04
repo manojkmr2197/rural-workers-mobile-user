@@ -9,4 +9,23 @@
     <string name="login_email_id">Email ID *(மின்னஞ்சல்)</string>
 
 
+    <string name="work_name">Business Name (தொழில் பெயர்) *</string>
+    <string name="worker_name">Name (பெயர்) *</string>
+    <string name="worker_phone_no1">Mobile No (தொலைபேசி எண்) *</string>
+    <string name="worker_phone_no2">Alternate No (தொலைபேசி எண்)</string>
+    <string name="worker_whatsapp">Whatsapp *</string>
+    <string name="worker_email_id">Email ID (மின்னஞ்சல்) *</string>
+    <string name="worker_tags">Tags</string>
+    <string name="worker_city">City (நகரம்) *</string>
+    <string name="worker_area">Area (இடம்) *</string>
+    <string name="worker_jobs">Jobs (தொழில்) *</string>
+    <string name="worker_address">Address (முகவரி) *</string>
+    <string name="worker_url">Web Url </string>
+    <string name="worker_prooftype">Proof Type *</string>
+    <string name="worker_photo">Profile Photo *</string>
+
+    <string name="worker_agree_text">By submitting this form you confirm that you have read and agree with our <b>terms and conditions</b></string>
+
+
+
 </resources>
